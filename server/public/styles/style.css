@@ -1,0 +1,50 @@
+#next {
+    float: right;
+}
+
+.btn {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+/*.nav-group {*/
+    /*/!*margin: 0 auto;*!/*/
+    /*/!*text-align: center;*!/*/
+    /*/!*margin-top: 10px;*!/*/
+/*}*/
+
+.index-point {
+    /*border: 1px solid black;*/
+    background-color: #4eb9ee;
+    margin: 0 10px;
+    display: inline-block;
+    /*float: left;*/
+    text-align: center;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+}
+
+.index-point-active {
+    background-color: #3cb179;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+#comment {
+    height: 40px;
+}
+
+.comment-style {
+    font-style: italic;
+}
+
+img {
+    float: left;
+    height: 50px;
+    width: auto;
+    margin: 5px 10px 0 0;
+
+}
